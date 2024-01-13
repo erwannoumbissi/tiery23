@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/lebron-james-lakers-2732x2732-10889.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    position: relative;
+}
+
+h3{
+    background-color: rgba(128, 0, 128, 0.389);
+    box-shadow: 5px;
+    border-radius: 8px;
+}
+h2{
+    background-color: rgba(255, 217, 0, 0.597);
+    box-shadow: 5px;
+    border-radius: 8px;
+}
+h1{
+        text-align: center;
+        background-image: url(images/Lebron_James_\(8293630244\).jpg);
+        color: gold;
+        background-size: 100%;
+        background-repeat: no-repeat;
+}
+table{
+    box-shadow: 5px;
+    border-radius: 8px;
+    background-color: rgba(250, 235, 215, 0.222);
+}
+td{
+    
+    
+    color:black;
+}
+img{
+    box-shadow: 19px;
+    border-radius: 8px;
+}
+h1{
+    box-shadow: 5px;
+    border-radius: 8px;
+}
+a{
+    width: 20px;
+    
+}
+@media only screen and (min-width: 600px) {
+    /* For mobile phones: */
+[class*="col-"] {
+    width: 414px;
+}
+
+}
+
+  
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
