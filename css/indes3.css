@@ -1,0 +1,50 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(images/jordan23-plexiglas-scaled_1100x.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    position: relative;
+}
+
+h3{
+    background-color: red;
+    box-shadow: 19px;
+    border-radius: 8px;
+}
+
+h2{
+    background-color:rgba(255, 0, 0, 0.8);
+    box-shadow: 19px;
+    border-radius: 8px;
+}
+
+h1{
+        text-align: center;
+        background-image: url(images/Michael_Jordan_in_2014.jpg);
+        color: gold;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        box-shadow: 19px;
+        border-radius: 8px;
+}
+table{
+    box-shadow: 5px;
+    border-radius: 8px;
+    background-color: rgba(250, 235, 215, 0.222);
+}
+td{
+    
+    
+    color:black;
+}
+img{
+    box-shadow: 19px;
+    border-radius: 8px;
+}
+h1{
+    box-shadow: 5px;
+    border-radius: 8px;
+}
